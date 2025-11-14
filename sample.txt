@@ -1,0 +1,6 @@
+This is a sample text file used for testing the C++ File Encryption Project.
+Feel free to modify this content and check how the encryption and decryption works!
+
+Line 1: Hello World!
+Line 2: C++ makes system programming powerful.
+Line 3: Encryption test successful.
