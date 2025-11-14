@@ -73,12 +73,17 @@ while (fin >> noskipws >> ch){
 ____________________________________________________________________________________________________________
 
 📸 Sample Menu Output
+
 WELCOME TO FILE ENCRYPTION PROJECT
 
 Press 1 to encrypt file
+
 Press 2 to decrypt file
+
 Press 3 to show file
+
 Press 4 to exit
+
 Please choose any option:
 
 ____________________________________________________________________________________________________________
