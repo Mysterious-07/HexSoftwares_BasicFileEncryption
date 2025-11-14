@@ -110,5 +110,7 @@ ________________________________________________________________________________
 📬 Contact
 
 Harsh Kharwar
-GitHub: your username
-LinkedIn: your profile link
+
+GitHub: https://www.github.com/Mysterious-07
+
+LinkedIn: https://www.linkedin.com/in/harsh-kharwar-942722289
